@@ -50,8 +50,9 @@ my_tools = {
 <div align="center" >
 <a  href="https://github.com/OldPando">
 
-<img src="https://github.com/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/3-stats.svg" width="32.5%"/>
-<img src="https://github.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/1-repos-per-language.svg"/>
+
+<img src="https://github.com/OldPando/OldPando/blob/main/profile-summary-cards-master/profile-summary-card-output/dark/3-stats.svg"/>
+<img src="https://github.com/OldPando/OldPando/blob/main/profile-summary-cards-master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"/>
 <img src="https://github.com/OldPando/OldPando/blob/main/profile-summary-cards-master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"/>
 
 

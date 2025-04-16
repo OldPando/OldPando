@@ -51,7 +51,7 @@ my_tools = {
 <a  href="https://github.com/OldPando">
 
 
-<img src="https://raw.githubusercontent.com/OldPando/OldPando/blob/main/profile-summary-cards-master/profile-summary-card-output/dark/3-stats.svg"/>
+<img src="https://github.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/3-stats.svg"/>
 <img src="https://github.com/OldPando/OldPando/blob/main/profile-summary-cards-master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg"/>
 <img src="https://github.com/OldPando/OldPando/blob/main/profile-summary-cards-master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg"/>
 

@@ -50,10 +50,9 @@ my_tools = {
 <div align="center" >
 <a  href="https://github.com/OldPando">
 
-<img src="![Most Used Languages](https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)"
- width="32.5%">
-<img src="https://raw.githubusercontent.com/OldPando/main/profile-summary-card-output/dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/OldPando/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-card-output/dark/3-stats.svg" width="32.5%"/>
+<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-card-output/dark/1-repos-per-language.svg" width="32.5%"/>
+<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg" width="32.5%"/>
 
 
 </a>

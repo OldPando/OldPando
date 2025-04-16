@@ -1,4 +1,23 @@
 <div align="center" width="50">
+<h1 align="center">👋 Hi, I'm Milad</h1>
+<h3 align="center">Web 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
+
+<p align="center">
+  <a href="https://artavacenter.ir" target="_blank">
+    <img src="https://img.shields.io/badge/My_Showcase-ArtavaCenter-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+  </a>
+  <a href="mailto:mil4d.hb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ASP.NET+MVC+Specialist;Corporate+Web+Solutions;Python+Image+Processing;Clean+Code+Advocate" alt="Typing SVG" />
+</p>
+
+<img 
+    src="https://github.com/BahariTil/BahariTil/blob/main/SVG/code.gif" alt="A cool animated GIF displaying creative effects"  width="auto" align="right">
+
 
 <br>
 <img src="https://github.com/OldPando/OldPando/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/OldPando" alt="Workspace"  width="40%"/><br> 
@@ -51,11 +70,11 @@ my_tools = {
 <a  href="https://github.com/OldPando">
 
 
+<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/3-stats.svg" width="32.5%">
+
 <img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/1-repos-per-language.svg" width="32.5%">
 
-<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" width="32.5%">
-
-<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/2-most-commit-language.svg" width="32.5%">
 
 
 

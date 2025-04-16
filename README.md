@@ -53,7 +53,7 @@ my_tools = {
 
 <img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/1-repos-per-language.svg" width="32.5%">
 
-<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg" width="32.5%">
 
 <img src="https://raw.githubusercontent.com/OldPando/OldPando/main/profile-summary-cards-master/profile-summary-card-output/dark/3-stats.svg" width="32.5%">
 

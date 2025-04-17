@@ -9,7 +9,7 @@
 <img src="https://github.com/OldPando/OldPando/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/OldPando" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> Just a Geek who loves Coding and TEA </strong></p>
+  <p><strong> <summary>Just a Geek who loves Coding and TEA</summary> </strong></p>
 
 <be>
 

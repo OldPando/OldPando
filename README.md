@@ -8,17 +8,17 @@
 
 <img src="https://github.com/OldPando/OldPando/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/OldPando" alt="Workspace"  width="40%"/><br> 
 
-<details>
+
   <p><strong> <summary>Just a Geek who loves Coding and TEA</summary> </strong></p>
 
 <be>
 
-</details>
+
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=OldPando&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/OldPando-grey?style=flat&logo=telegram)](https://t.me/Old_Pando)
-[![Website](https://img.shields.io/badge/website-blue?style=flat&logo=google-chrome)](https://artavacenter.ir)
-[![Email](https://img.shields.io/badge/email-red?style=flat&logo=gmail&logoColor=white)](mailto:mil4d.hb@email.com)
+[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/Old_Pando)
+[![Website](https://img.shields.io/badge/website-blue?style=gray&logo=google-chrome)](https://artavacenter.ir)
+[![Email](https://img.shields.io/badge/email-red?style=gray&logo=gmail&logoColor=white)](mailto:mil4d.hb@email.com)
 <br>
 </div>
 
@@ -52,7 +52,7 @@ my_tools = {
 -  <img alt="GIF" src="https://github.com/OldPando/OldPando/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **PHP & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/OldPando/OldPando/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/OldPando/OldPando/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc, Cars, Movies, or anything**. <br>
-- <img src="https://github.com/OldPando/OldPando/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **https://t.me/Old_Pando**<br>
+- <img src="https://github.com/OldPando/OldPando/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Join my channel to get more information about the projects: **https://t.me/Bl4ck_Room**<br>
 - &nbsp;&nbsp;<img src="https://github.com/OldPando/OldPando/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories** ;).<br>
 
 <div align="center" >
@@ -69,11 +69,6 @@ my_tools = {
 
 </a>
 
-<details>
-  
-<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.pnghttps://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.pnghttps://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.pnghttps://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.pnghttps://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.pnghttps://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.pnghttps://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" >
-
-</details>
   
 <hr></hr>
 

@@ -17,8 +17,8 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=OldPando&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/Old_Pando)
-[![Website](https://img.shields.io/badge/website-blue?style=gray&logo=google-chrome)](https://artavacenter.ir)
-[![Email](https://img.shields.io/badge/email-red?style=gray&logo=gmail&logoColor=white)](mailto:mil4d.hb@email.com)
+[![Website](https://img.shields.io/badge/website-gray?style=flat&logo=google-chrome)](https://artavacenter.ir)
+[![Email](https://img.shields.io/badge/email-gray?style=flat&logo=gmail&logoColor=white)](mailto:mil4d.hb@email.com)
 <br>
 </div>
 

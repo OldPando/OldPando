@@ -1,36 +1,27 @@
 <div align="center" width="50">
 <h1 align="center">👋 Hi, I'm Milad</h1>
-<h3 align="center">Web 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</h3>
+
 
 <p align="center">
-  <a href="https://artavacenter.ir" target="_blank">
-    <img src="https://img.shields.io/badge/My_Showcase-ArtavaCenter-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio">
-  </a>
-  <a href="mailto:mil4d.hb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Web+Developer;Scripting+Developer;Python+Image+Processing;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=ASP.NET+MVC+Specialist;Corporate+Web+Solutions;Python+Image+Processing;Clean+Code+Advocate" alt="Typing SVG" />
-</p>
-
-<img 
-    src="https://github.com/BahariTil/BahariTil/blob/main/SVG/code.gif" alt="A cool animated GIF displaying creative effects"  width="auto" align="right">
 
 
 <br>
 <img src="https://github.com/OldPando/OldPando/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/OldPando" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> (Just a Geek who loves Coding and TEA) </strong></p>
 
 <be>
 
 </details>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=OldPando&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/OldPando-grey?style=flat&logo=telegram)](https://t.me/Old_Pando) <br>
+[![telegram badge](https://img.shields.io/badge/OldPando-grey?style=flat&logo=telegram)](https://t.me/Old_Pando)
+[![Website](https://img.shields.io/badge/website-yourwebsite.com-blue?style=flat&logo=google-chrome)](https://artavacenter.ir)
+[![Email](https://img.shields.io/badge/email-your%40email.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mil4d.hb@email.com)
+<br>
 </div>
 
 <hr></hr>
